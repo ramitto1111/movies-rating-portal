@@ -1,0 +1,10 @@
+.nav-link{
+    color: #495057 !important;
+  }
+  .nav-tabs .nav-item.show .nav-link, 
+  .nav-tabs .nav-link.active{
+    color: #dc3506 !important;
+  }
+  .cur{
+    cursor: pointer;
+  }
